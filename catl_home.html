@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CastingATL App</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: "Roboto", sans-serif;
+      background: linear-gradient(1deg, #4f5576, #1a2b4c);
+      color: #333;
+    }
+    
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+
+    /* Header */
+    .header {
+      background: linear-gradient(180deg, #030303, #1e2f4f);
+      color: #fff;
+      padding: 20px;
+      border-bottom-left-radius: 20px;
+      border-bottom-right-radius: 20px;
+    }
+    .header-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .header h1 {
+      font-size: 20px;
+      margin: 10px 0 5px;
+    }
+    .header p {
+      font-size: 14px;
+      margin: 0;
+    }
+
+    .cart {
+      font-size: 28px;
+      position: relative;
+      cursor: pointer;
+      padding-right: 10px;
+    }
+    .cart::after {
+      content: "2";
+      position: absolute;
+      top: -6px;
+      right: 4px;
+      background: #ae8c4d;
+      color: #fff;
+      font-size: 12px;
+      padding: 2px 5px;
+      border-radius: 50%;
+    }
+
+    /* Video Section */
+    .video-container {
+      display: flex;
+      justify-content: center;
+      margin: 15px 10px;
+      background: #000000;
+      padding: 15px;
+      border-radius: 15px;
+    }
+    .video-container iframe {
+      max-width: 100%;
+      border-radius: 10px;
+    }
+
+    .intro-text {
+      color: white;
+      text-align: center;
+      padding: 15px;
+      line-height: 1.6;
+    }
+
+    /* Section Titles */
+    .section {
+      margin: 15px;
+    }
+    .section h2 {
+      font-size: 16px;
+      display: flex;
+      color: white;
+      justify-content: space-between;
+      margin-bottom: 10px;
+    }
+    .section h2 span {
+      font-size: 14px;
+      color: orange;
+      cursor: pointer;
+    }
+
+    /* Cards */
+    .card-list {
+      display: flex;
+      overflow-x: auto;
+      gap: 12px;
+      padding-bottom: 10px;
+      scroll-snap-type: x mandatory;
+    }
+    .card {
+      min-width: 180px;
+      background: #668ab46b;
+      border-radius: 12px;
+      overflow: hidden;
+      flex-shrink: 0;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      scroll-snap-align: start;
+      transition: transform 0.2s ease;
+      cursor: pointer;
+    }
+    .card:hover {
+      transform: scale(1.05);
+    }
+    .card img {
+      width: 100%;
+      height: 80px;
+      object-fit: contain;
+      background: white;
+      padding: 10px;
+    }
+    .card-info {
+      padding: 10px;
+    }
+    .card-info h3 {
+      margin: 0;
+      font-size: 14px;
+      color: #e0e0e0;
+    }
+    .card-info p {
+      margin: 5px 0 0;
+      font-size: 12px;
+      color: #dbdbdb;
+    }
+
+    /* Buttons Area */
+    .button-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 15px;
+      margin-top: 20px;
+    }
+
+    .button {
+      padding: 14px;
+      border: none;
+      border-radius: 30px;
+      font-size: 16px;
+      font-weight: bold;
+      color: white;
+      cursor: pointer;
+      transition: transform 0.2s ease, opacity 0.3s;
+    }
+
+    .button:hover {
+      transform: scale(1.05);
+      opacity: 0.9;
+    }
+
+    .btn-red { background: #e63946; }
+    .btn-blue { background: #457b9d; }
+    .btn-green { background: #2a9d8f; }
+    .btn-orange { background: #f4a261; }
+
+    hr {
+      border: none;
+      border-top: 1px solid rgba(255,255,255,0.2);
+      margin: 30px 15px;
+    }
+
+    /* Responsive Desktop */
+    @media (min-width: 768px) {
+      body {
+        font-size: 16px;
+      }
+      .header {
+        padding: 30px 50px;
+        border-radius: 0;
+      }
+      .header h1 {
+        font-size: 28px;
+      }
+      .header p {
+        font-size: 16px;
+      }
+      .video-container {
+        margin: 20px auto;
+        max-width: 800px;
+      }
+      .section {
+        max-width: 1200px;
+        margin: 20px auto;
+      }
+      .card-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 20px;
+        overflow: visible;
+      }
+      .card {
+        min-width: auto;
+      }
+      .card img {
+        height: 100px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .card {
+        min-width: 160px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <div class="header">
+    <div class="header-top">
+      <div>
+        <h1>Casting ATL</h1>
+        <p>Latest Casting Notices</p>
+      </div>
+      <div class="cart">🗒️</div>
+    </div>
+  </div>
+
+  <!-- Video -->
+  <div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8cvDjDfVqow?si=ptbu4Wxk_9rzfERf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+  <div class="intro-text">
+    ACTORS, MODELS, AND EXTRAS!<br />
+    FIND AUDITIONS IN TV, MOVIES, AND COMMERCIALS.<br />
+    UPDATED DAILY
+  </div>
+
+  <!-- Atlanta Casting Companies -->
+  <div class="section">
+    <h2>Atlanta Casting Companies <span>See All</span></h2>
+    <div class="card-list">
+      <a href="https://talentsearchagency.blogspot.com/2023/11/atlanta-casting-updates-atlanta-updated.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7xwNo_hO5tWczAr5QbWm-SX2_2QYLfqVsqUAn32L4hdABz6imq1W59vmtSH8oZsLRlCwDA7tY3THqlw-3yWgF8x0-uxQBAa3cAYbwhEjbxJUkzfuNrcvUP0cKDaa_LbJ-hhJT1AeBj2uJZF0Kbyb0AP_i4T3xjE3eeVaO2bsIFMjEBDn743q6dzCmyae2/s200/image.png" alt="Atlanta Casting Updates">
+        <div class="card-info">
+          <h3>Atlanta Casting Updates</h3>
+          <p>Latest casting calls</p>
+        </div>
+      </a>
+
+      <a href="https://talentsearchagency.blogspot.com/2023/09/catrett-locke-casting-atlanta-updated.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgzIZR0fOcJpbBZWqrj0n1OYNagD2aeDYqGkAwp34IT2UzmN8S8Oh9jMH0ZsbQdftxOxF08Hb_s1oagW8Hdg6rgK8ILf_1BFaL0sDR3G7ajoh2IjbfisX_8fBbmW_rMsFcSukBtFf_JUsxw04kguklY9pDn2I5A1YddxNQkGjrrEi7SMi3XoPgrDsJ90jwc" alt="Catrett Locke Casting">
+        <div class="card-info">
+          <h3>Catrett Locke Casting</h3>
+          <p>Professional casting services</p>
+        </div>
+      </a>
+
+      <a href="https://talentsearchagency.blogspot.com/2023/12/taylormade-casting-atlanta-updated.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghT0NnjsyVjTvY37LnUBYY0nOVm-SccujoSBgbPgxaXm9GETf7gUH8N1qcHgh4-OVg1W_WXxrRRKT5qru_fKhwUBcYInusFuIT4pMvPNrV6Tk4LLVENvxG8JBeYxXkNtQRBATrO9BGm_xP22D44ScYWy5hY904lpkHA2CamZZ0bLwJeTCbzeWJpjNEFs0B/s200-rw/Screenshot%202023-12-15%20at%2011.43.58%E2%80%AFAM.png" alt="TaylorMade Casting">
+        <div class="card-info">
+          <h3>TaylorMade Casting</h3>
+          <p>Film & TV opportunities</p>
+        </div>
+      </a>
+
+      <a href="https://talentsearchagency.blogspot.com/2023/12/cab-casting-atlanta-updated.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghT0NnjsyVjTvY37LnUBYY0nOVm-SccujoSBgbPgxaXm9GETf7gUH8N1qcHgh4-OVg1W_WXxrRRKT5qru_fKhwUBcYInusFuIT4pMvPNrV6Tk4LLVENvxG8JBeYxXkNtQRBATrO9BGm_xP22D44ScYWy5hY904lpkHA2CamZZ0bLwJeTCbzeWJpjNEFs0B/s200-rw/Screenshot%202023-12-15%20at%2011.43.58%E2%80%AFAM.png" alt="CAB Casting">
+        <div class="card-info">
+          <h3>CAB Castings LLC</h3>
+          <p>Commercial casting</p>
+        </div>
+      </a>
+
+      <a href="https://talentsearchagency.blogspot.com/2023/12/tona-b-dahlquist-casting-calls-atlanta.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghT0NnjsyVjTvY37LnUBYY0nOVm-SccujoSBgbPgxaXm9GETf7gUH8N1qcHgh4-OVg1W_WXxrRRKT5qru_fKhwUBcYInusFuIT4pMvPNrV6Tk4LLVENvxG8JBeYxXkNtQRBATrO9BGm_xP22D44ScYWy5hY904lpkHA2CamZZ0bLwJeTCbzeWJpjNEFs0B/s200-rw/Screenshot%202023-12-15%20at%2011.43.58%E2%80%AFAM.png" alt="Tona B. Dalquist Casting">
+        <div class="card-info">
+          <h3>Tona B. Dalquist Casting</h3>
+          <p>Experienced casting director</p>
+        </div>
+      </a>
+
+      <a href="https://talentsearchagency.blogspot.com/2023/10/hylton-casting-atlanta-updated.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiFCf16bsdhvLKpW_uuOiE-T4F83481v8UtzZbR6Fa3wJC5mx7wk_iJIxzwAs1dUpEmd7BUvFEmEbKA2g7Y2rlEHiYcQ7suMl0G6f722DRKuS31ZmNMit6zp_AE4LC4KdoGcXD51t1nJit9KTZt8RT13NVrO-VGL2H-peBfck0xkAH5Ok3tA9TwPH_PaduJ" alt="Hylton Casting">
+        <div class="card-info">
+          <h3>Hylton Casting</h3>
+          <p>Quality casting calls</p>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <!-- More Casting Companies -->
+  <div class="section">
+    <h2>More Opportunities <span>See All</span></h2>
+    <div class="card-list">
+      <a href="https://talentsearchagency.blogspot.com/2023/09/bill-marinella-casting-atlanta-updated.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj6J4cDZQDc4omAKNnYQM_5WNBL9TfvjOEdgUbleEjdCOF26tfYcnPIwuvqBBRwZomkYZh6GA8-m4oKX_LbWShzIxb8rDxLr_7JObqSQAPHF1LRaZC2ZakfSTZhD3wj0CN_MZ7yXXJUeGAIY1xgKzwgB2oNqVO-K0bpr9CbUlDLwIsT-qo4vdk3PjAoqLdy" alt="Bill Marinella Casting">
+        <div class="card-info">
+          <h3>Bill Marinella Casting</h3>
+          <p>Industry professional</p>
+        </div>
+      </a>
+
+      <a href="https://talentsearchagency.blogspot.com/2023/12/crazy-legs-productions-atlanta-updated.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghT0NnjsyVjTvY37LnUBYY0nOVm-SccujoSBgbPgxaXm9GETf7gUH8N1qcHgh4-OVg1W_WXxrRRKT5qru_fKhwUBcYInusFuIT4pMvPNrV6Tk4LLVENvxG8JBeYxXkNtQRBATrO9BGm_xP22D44ScYWy5hY904lpkHA2CamZZ0bLwJeTCbzeWJpjNEFs0B/s200-rw/Screenshot%202023-12-15%20at%2011.43.58%E2%80%AFAM.png" alt="Crazy Legs Productions">
+        <div class="card-info">
+          <h3>Crazy Legs Productions</h3>
+          <p>Production casting</p>
+        </div>
+      </a>
+
+      <a href="https://talentsearchagency.blogspot.com/2023/10/christopher-gray-casting-cgc-atlanta.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuMaphQjW9EUrAgStHyxhjg54amyEjHSG-5knJYOdmzEz3KGopMA6klaDY4s7C0h6n800vuswlCsyStz2fCdBIm18sunC7uoos3_I0z0wn3KwvGQmULCrgKtob_DpySYNINihkaj6szedHZuQhrweEyspCZcibnw32s5J7tItipig6D1r3d3ckQjfSqlqN/w83-h66-p-k-no-nu/1391582_694184177272998_457036746_n.jpg" alt="Christopher Gray Casting">
+        <div class="card-info">
+          <h3>Christopher Gray Casting</h3>
+          <p>CGC - Professional services</p>
+        </div>
+      </a>
+
+      <a href="https://talentsearchagency.blogspot.com/2023/10/the-extra-bad-group-atlanta-updated.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi6Xpdif85glQeeDC93_S9xdnAdTDGIhCulpEShbx5ZR9am84Du06lOWdN4KecHa3NqiDahvcAmuwfIdzOISIulQpLrm2bxduFGjNtX3ro0PDXUYWsv4o6xoeBWsKmSd8C6AocZHcCqAtsD5TssFaIdL7gnU3i64roiFohXjNNOn5BiC_WICkEEEFhyGCc6" alt="The Extra Bad Group">
+        <div class="card-info">
+          <h3>The Extra Bad Group</h3>
+          <p>Background casting</p>
+        </div>
+      </a>
+
+      <a href="https://talentsearchagency.blogspot.com/2023/10/cherrix-casting-atl-atlanta-updated.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCDPBpJlRaZxRMwp8bAOh0q4GljzDE3qTtt-yq2Y6qVlIcDJmuas4y4oO7mMYTOk-mOxhSKqKYetSUnbXhOMaFIeG7WzpRwFiGgg8sMZ6wOyBRNjC3Ah9zFyijoto2mMqf-SF04IrN3xswNvguAEt1W6_umGdtTf5-2X_ZFjK6SR7rVWPb9IKCLDBxO42d/w83-h66-p-k-no-nu/Screenshot%202023-10-11%20at%205.24.16%E2%80%AFAM.png" alt="Cherrix Casting ATL">
+        <div class="card-info">
+          <h3>Cherrix Casting ATL</h3>
+          <p>Local casting opportunities</p>
+        </div>
+      </a>
+
+      <a href="https://talentsearchagency.blogspot.com/2023/10/lead-casting-call-atlanta-updated.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNpBfgy_QPUvFJhyEnH-87m-9ZTC59J-1i63OaLDhVFMJlpUfm9GmEHAx2NKxo6ZdNgsZM5WeQaq8TRTIiISPqFQSZG9SIVVO_EOcSnkLx-rAee0pm08H5ETCRfWb0xHoBcAqcW0HfR2qDzPLzspmQwzeCHwVfnwXy9weaVKuRsmQ68ixW7LO6ZyHjmg7t/w83-h66-p-k-no-nu/Screenshot%202023-10-11%20at%205.21.29%E2%80%AFAM.png" alt="Lead Casting Call">
+        <div class="card-info">
+          <h3>Lead Casting Call</h3>
+          <p>Lead role opportunities</p>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <!-- Additional Resources -->
+  <div class="section">
+    <h2>Additional Resources</h2>
+    <div class="card-list">
+      <a href="https://talentsearchagency.blogspot.com/2023/10/stiwell-casting-atlanta-updated.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2Gp-O687DSAv0E9fH3cL2j1o6zDA7x1qo2-PjBwKUsH2CUEmfhojE9FnIY1b5t2QubAdT6slhur5-W1Yv3-xQndvSvAwBJ8D4kiLqknVDderuHXYFINiU1twpYkviYW8KpGyE23LClGgZJfH5NWya6YuoALclnjAzJg0m0M1-wieTTKIAyWFOBo1M93d_/w83-h66-p-k-no-nu/Screenshot%202023-10-11%20at%205.17.50%E2%80%AFAM.png" alt="Stilwell Casting">
+        <div class="card-info">
+          <h3>Stilwell Casting</h3>
+          <p>Casting services</p>
+        </div>
+      </a>
+
+      <a href="https://talentsearchagency.blogspot.com/2023/10/new-life-casting-atlanta-updated.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiXfKc7_fOv_djTTW1l-wss9z4E3mHEOFUdygFVwGpPjBuzT6FhN7ii6O3KHXXrIITq68Mf-Xzjdzf79xvxMMVl4qxDqZi0wRPPAICvsDh3Vz0oCZBIplXLbwaQQqPY1hbpVftRAleajx8kBwEE_IaF0HKzzCCMXYwEP66jwhKUjnsCPcBVr2FRnkDUtHC5" alt="New Life Casting">
+        <div class="card-info">
+          <h3>New Life Casting</h3>
+          <p>Fresh opportunities</p>
+        </div>
+      </a>
+
+      <a href="https://talentsearchagency.blogspot.com/2023/11/the-southern-casting-call-atlanta.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNpBfgy_QPUvFJhyEnH-87m-9ZTC59J-1i63OaLDhVFMJlpUfm9GmEHAx2NKxo6ZdNgsZM5WeQaq8TRTIiISPqFQSZG9SIVVO_EOcSnkLx-rAee0pm08H5ETCRfWb0xHoBcAqcW0HfR2qDzPLzspmQwzeCHwVfnwXy9weaVKuRsmQ68ixW7LO6ZyHjmg7t/w83-h66-p-k-no-nu/Screenshot%202023-10-11%20at%205.21.29%E2%80%AFAM.png" alt="The Southern Casting Call">
+        <div class="card-info">
+          <h3>The Southern Casting Call</h3>
+          <p>Regional casting</p>
+        </div>
+      </a>
+
+      <a href="https://currentjobs.niceboard.co/" class="card">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghT0NnjsyVjTvY37LnUBYY0nOVm-SccujoSBgbPgxaXm9GETf7gUH8N1qcHgh4-OVg1W_WXxrRRKT5qru_fKhwUBcYInusFuIT4pMvPNrV6Tk4LLVENvxG8JBeYxXkNtQRBATrO9BGm_xP22D44ScYWy5hY904lpkHA2CamZZ0bLwJeTCbzeWJpjNEFs0B/s200-rw/Screenshot%202023-12-15%20at%2011.43.58%E2%80%AFAM.png" alt="Jobs Board">
+        <div class="card-info">
+          <h3>Jobs Board</h3>
+          <p>Current job listings</p>
+        </div>
+      </a>
+
+      <a href="https://talentsearchagency.blogspot.com/p/discussion-forum.html" class="card">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghT0NnjsyVjTvY37LnUBYY0nOVm-SccujoSBgbPgxaXm9GETf7gUH8N1qcHgh4-OVg1W_WXxrRRKT5qru_fKhwUBcYInusFuIT4pMvPNrV6Tk4LLVENvxG8JBeYxXkNtQRBATrO9BGm_xP22D44ScYWy5hY904lpkHA2CamZZ0bLwJeTCbzeWJpjNEFs0B/s200-rw/Screenshot%202023-12-15%20at%2011.43.58%E2%80%AFAM.png" alt="Discussion Forum">
+        <div class="card-info">
+          <h3>Discussion Forum</h3>
+          <p>Community discussions</p>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <!-- Action Buttons -->
+  <div class="section">
+    <div class="button-container">
+      <a href="https://talentsearchagency.blogspot.com/p/atlantas-casting-calls-for-current-roles.html"><button class="button btn-red">All Casting Calls</button></a>
+      <a href="https://talentsearchagency.com/"><button class="button btn-blue">Featured Roles</button></a>
+      <a href="https://bigtopapps.com/news"><button class="button btn-green">US News</button></a>
+      <a href="https://talentsearchagency.blogspot.com/p/news-headlines.html"><button class="button btn-orange">Entertainment News</button></a>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="intro-text">
+    2025 CastingATL - <a target="_blank" href="https://livedatalink.com">LiveDataLink.com</a>.
+  </div>
+
+</body>
+</html>
