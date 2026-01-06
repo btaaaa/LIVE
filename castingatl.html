@@ -34,7 +34,8 @@
   #casting-app-wrapper {
     margin: 0 auto;
     padding: 0;
-	width: 1200px;
+	width: 100%;          /* Changed from 1200px */
+    max-width: 1200px;    /* Added to keep a limit on desktop */
     font-family: "Roboto", sans-serif;
     background: linear-gradient(1deg, #4f5576, #1a2b4c);
     color: #333;
@@ -202,9 +203,7 @@
 
   /* Desktop Adjustments */
   @media (min-width: 768px) {
-	#casting-app-wrapper {
-	width: 350px;
-	}	
+	
     #casting-app-wrapper .card-list {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
