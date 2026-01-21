@@ -233,7 +233,31 @@ background: radial-gradient(circle, rgba(179, 174, 238, 1) 20%, rgba(17, 8, 117,
   </div>
 
   <div class="video-wrapper">
-    <iframe src="https://www.youtube.com/embed/8cvDjDfVqow" allowfullscreen></iframe>
+    
+	  <!-- <iframe src="https://www.youtube.com/embed/8cvDjDfVqow" allowfullscreen></iframe> -->
+
+  <iframe id="randomVideo" src="" allowfullscreen></iframe>
+
+
+<script>
+  // List of YouTube video IDs
+  const videos = [
+    "8cvDjDfVqow",
+    "Sp7L9SS3jc0",
+    "htwkhrI9La4",
+    "LQ23xx8_7J0",
+    "Gay4AsxBD00"
+  ];
+
+	// Pick a random video
+  const randomVideo = videos[Math.floor(Math.random() * videos.length)];
+
+  // Set iframe source
+  document.getElementById("randomVideo").src =
+    "https://www.youtube.com/embed/" + randomVideo;
+</script>
+
+	  
   </div>
 
   <div class="intro-text">
