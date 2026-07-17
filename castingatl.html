@@ -172,29 +172,39 @@ background: radial-gradient(circle, rgb(68 68 68) 20%, rgba(17, 8, 117, 1) 100%)
     color: #ccc;
   }
 
-  /* Buttons Grid */
-  #casting-app-wrapper .button-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 10px;
-    padding: 0 5px;
-  }
-  #casting-app-wrapper .button {
-    padding: 12px 5px;
-    border: none;
-    border-radius: 8px;
-    font-size: 13px;
-    font-weight: bold;
-    color: white !important;
-    text-align: center;
-    display: block;
-    cursor: pointer;
-  }
-  #casting-app-wrapper .btn-red { background: #e63946; }
-  #casting-app-wrapper .btn-blue { background: #457b9d; }
-  #casting-app-wrapper .btn-orange { background: #f4a261; }
-  #casting-app-wrapper .btn-green { background: #2a9d8f; }
+	      /* Modern Grid Action Buttons */
+    .button-container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+    }
+    .button {
+      padding: 14px 10px;
+      border-radius: 12px;
+      font-size: 13px;
+      font-weight: 700;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+    .button:active {
+      transform: scale(0.97);
+    }
+    
+    .btn-red { background: linear-gradient(135deg, #e11d48, #be123c); }
+    .btn-blue { background: linear-gradient(135deg, #0284c7, #0369a1); }
+    .btn-orange { background: linear-gradient(135deg, #f97316, #ea580c); }
+    .btn-green { background: linear-gradient(135deg, #059669, #047857); }
 
+    .button:hover {
+      filter: brightness(1.1);
+      box-shadow: 0 6px 16px rgba(0,0,0,0.25);
+    }
+
+	  
   #casting-app-wrapper hr {
     border: none;
     border-top: 1px solid rgba(255,255,255,0.1);
@@ -482,7 +492,7 @@ background: radial-gradient(circle, rgb(68 68 68) 20%, rgba(17, 8, 117, 1) 100%)
 
 
   <hr>
-
+<!--
   <div class="section">
     <div class="button-container">
       <a class="button btn-red" href="https://events.accessatlanta.com">Atlanta EVENTS</a>
@@ -500,13 +510,29 @@ background: radial-gradient(circle, rgb(68 68 68) 20%, rgba(17, 8, 117, 1) 100%)
 	  <a class="button btn-green" href="https://playlistduel.com">Discover Music</a>
     </div>
   </div>
+-->
+	    <!-- Large Bottom Navigation Directory -->
+  <div class="section">
+    <div class="button-container">
+      <a class="button btn-red" href="https://events.accessatlanta.com">Atlanta EVENTS</a>
+      <a class="button btn-orange" href="https://talentsearchagency.blogspot.com/2022/03/getting-started-in-movie-and-tv-industry.html">Getting Started</a>
+      <a class="button btn-blue" href="https://talentsearchagency.blogspot.com/2023/12/behind-scenes-in-georgia-feature-films.html">Filmed in GA Clips</a>
+      <a class="button btn-blue" href="https://talentsearchagency.blogspot.com/2023/12/historic-past-films-and-tv-shows-filmed.html">Filmed in GA List</a>
+      <a class="button btn-green" href="https://videorival.com/mediahub.php">Latest Movies & TV</a>
+      <a class="button btn-green" href="https://www.youtube.com/shorts/voq2JAVVrSA">Reels Breakdown</a>
+      <a class="button btn-orange" href="https://theshopchannel.com/news">US News</a>
+      <a class="button btn-orange" href="https://talentsearchagency.blogspot.com/p/news-headlines.html">Entertainment News</a>
+      <a class="button btn-green" href="https://videorival.com/mediahub.php">Trailers</a>
+      <a class="button btn-green" href="https://playlistduel.com">Discover Music</a>
+    </div>
+  </div>
   
 
 
   <div class="intro-text" style="padding-bottom: 30px; font-size: 12px; opacity: 0.7;">
     © 2026 CastingATL - <a href="https://livedatalink.com" target="_blank">LiveDataLink.com</a>
 	  <br/>
-	  <a href="mailto:support@bigtopapps.com</a>Contact Us</a>
+	  <a href="mailto:support@bigtopapps.com">Contact Us</a>
   </div>
 
 </div>
