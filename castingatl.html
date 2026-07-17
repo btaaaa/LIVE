@@ -106,13 +106,25 @@ background: radial-gradient(circle, rgb(68 68 68) 20%, rgba(17, 8, 117, 1) 100%)
       border-radius: 10px;
     }
 
-  #casting-app-wrapper .intro-text {
-    color: white;
-    text-align: center;
-    padding: 15px;
-    font-weight: bold;
-    font-size: 14px;
-  }
+
+	      /* Intro Hero Text */
+    #casting-app-wrapper .intro-text {
+      text-align: center;
+      padding: 12px 24px;
+      margin: 16px;
+      font-weight: 500;
+      font-size: 14px;
+      letter-spacing: 0.5px;
+      line-height: 1.6;
+      background: rgba(255, 255, 255, 0.03);
+      border-radius: 12px;
+      border: 1px solid var(--border-color);
+      color: #e2e8f0;
+    }
+    .intro-highlight {
+      color: var(--accent-orange);
+      font-weight: 700;
+    }
 
   /* Section Titles */
   #casting-app-wrapper .section {
@@ -173,12 +185,12 @@ background: radial-gradient(circle, rgb(68 68 68) 20%, rgba(17, 8, 117, 1) 100%)
   }
 
 	      /* Modern Grid Action Buttons */
-    .button-container {
+   #casting-app-wrapper .button-container {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
       gap: 12px;
     }
-    .button {
+   #casting-app-wrapper .button {
       padding: 14px 10px;
       border-radius: 12px;
       font-size: 13px;
@@ -191,7 +203,7 @@ background: radial-gradient(circle, rgb(68 68 68) 20%, rgba(17, 8, 117, 1) 100%)
       cursor: pointer;
       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     }
-    .button:active {
+   #casting-app-wrapper .button:active {
       transform: scale(0.97);
     }
     
@@ -200,7 +212,7 @@ background: radial-gradient(circle, rgb(68 68 68) 20%, rgba(17, 8, 117, 1) 100%)
     .btn-orange { background: linear-gradient(135deg, #f97316, #ea580c); }
     .btn-green { background: linear-gradient(135deg, #059669, #047857); }
 
-    .button:hover {
+    #casting-app-wrapper .button:hover {
       filter: brightness(1.1);
       box-shadow: 0 6px 16px rgba(0,0,0,0.25);
     }
@@ -270,10 +282,11 @@ background: radial-gradient(circle, rgb(68 68 68) 20%, rgba(17, 8, 117, 1) 100%)
 	  
   </div>
 
+  <!-- Hero Catchphrase Banner -->
   <div class="intro-text">
     ACTORS, INFLUENCERS, MODELS, AND EXTRAS!<br>
     FIND WORK IN TV, MOVIES, UGC, AND COMMERCIALS.<br>
-    UPDATED DAILY
+    <span class="intro-highlight">UPDATED DAILY</span>
   </div>
 	
     <!-- Action Buttons -->
