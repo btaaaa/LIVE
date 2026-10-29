@@ -1,0 +1,2579 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<html>
+  <head>
+  </head>
+  <body>
+    <feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+      <id>
+        https://mzstoreservices-st.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topMovies/limit=25/xml
+      </id>
+      <title>
+        iTunes Store: Top Movies
+      </title>
+      <updated>
+        2026-10-28T18:51:54-07:00
+      </updated>
+      <link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=us&amp;id=1&amp;popId=15" />
+      <link rel="self" href="https://mzstoreservices-st.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topMovies/limit=25/xml" />
+      <icon>
+        http://itunes.apple.com/favicon.ico
+      </icon>
+      <author>
+        <name>
+          iTunes Store
+        </name>
+        <uri>
+          http://www.apple.com/itunes/
+        </uri>
+      </author>
+      <rights>
+        Copyright 2008 Apple Inc.
+      </rights>
+      <entry>
+        <id im:id="6808034868">
+          https://itunes.apple.com/us/movie/verity/id6808034868?uo=2
+        </id>
+        <title>
+          Verity - Michael Showalter
+        </title>
+        <summary>
+          Ghostwriting for Verity Crawford, writer Lowen Ashleigh discovers a chilling autobiography and disturbing confessions that blur fiction and reality.
+        </summary>
+        <im:name>
+          Verity
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/verity/id6808034868?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4416" term="Thriller" scheme="https://itunes.apple.com/us/genre/movies-thriller/id4416?uo=2" label="Thriller">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/17/41/78/1741789f-1493-ff3d-094e-5611c047f592/mzvf_9908087313119493246.640x356.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              146217.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/anne-hathaway/3260249?uo=2">
+              Michael Showalter
+            </im:artist>
+            <im:price amount="24.99" currency="USD">
+              $24.99
+            </im:price>
+            <im:rentalprice amount="19.99" currency="USD">
+              $19.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/a5/a9/f3a5a9b6-a6c2-ae0b-347f-f1833e7973ff/2000x3000_Verity.jpg/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/a5/a9/f3a5a9b6-a6c2-ae0b-347f-f1833e7973ff/2000x3000_Verity.jpg/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/a5/a9/f3a5a9b6-a6c2-ae0b-347f-f1833e7973ff/2000x3000_Verity.jpg/115x170bb.png
+            </im:image>
+            <rights>
+              © 2026 Amazon Content Services LLC. All Rights Reserved
+            </rights>
+            <im:releasedate label="October 2, 2026">
+              2026-10-02T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/verity/id6808034868?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Michael Showalter - Verity  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/a5/a9/f3a5a9b6-a6c2-ae0b-347f-f1833e7973ff/2000x3000_Verity.jpg/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/verity/id6808034868?uo=2&#34;&gt;Verity&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/anne-hathaway/3260249?uo=2&#34;&gt;Michael Showalter&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-thriller/id4416?uo=2&#34;&gt;Thriller&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $24.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; October 2, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;Ghostwriting for Verity Crawford, writer Lowen Ashleigh discovers a chilling autobiography and disturbing confessions that blur fiction and reality.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2026 Amazon Content Services LLC. All Rights Reserved&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6793590242">
+          https://itunes.apple.com/us/movie/spider-man-brand-new-day/id6793590242?uo=2
+        </id>
+        <title>
+          Spider-Man: Brand New Day - Destin Daniel Cretton
+        </title>
+        <summary>
+          It&#39;s a BRAND NEW DAY for Peter Parker. Fighting crime full-time as Spider-Man in a world that doesn&#39;t remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see. The world may have forgotten Peter Parker, but he hasn&#39;t forgotten them.
+        </summary>
+        <im:name>
+          Spider-Man: Brand New Day
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/spider-man-brand-new-day/id6793590242?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4401" term="Action &amp; Adventure" scheme="https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2" label="Action &amp; Adventure">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/79/07/bd/7907bd6e-acaa-12cf-2f13-c681d76711bc/mzvf_5293061469188371973.640x356.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              155714.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/destin-daniel-cretton/583588579?uo=2">
+              Destin Daniel Cretton
+            </im:artist>
+            <im:price amount="24.99" currency="USD">
+              $24.99
+            </im:price>
+            <im:rentalprice amount="19.99" currency="USD">
+              $19.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1d/28/d7/1d28d78b-a9e3-b0de-fb36-de221d09e2c6/DP_10459864_SPIDER-MANBRANDNEWDAY_2000x3000_PreorderKeyArt_English.png/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1d/28/d7/1d28d78b-a9e3-b0de-fb36-de221d09e2c6/DP_10459864_SPIDER-MANBRANDNEWDAY_2000x3000_PreorderKeyArt_English.png/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1d/28/d7/1d28d78b-a9e3-b0de-fb36-de221d09e2c6/DP_10459864_SPIDER-MANBRANDNEWDAY_2000x3000_PreorderKeyArt_English.png/115x170bb.png
+            </im:image>
+            <rights>
+              2026 Columbia Pictures Industries, Inc. and TSG Entertainment II LLC. All Rights Reserved. MARVEL and all related character names: © and TM 2026 MARVEL.
+            </rights>
+            <im:releasedate label="July 31, 2026">
+              2026-07-31T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/spider-man-brand-new-day/id6793590242?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Destin Daniel Cretton - Spider-Man: Brand New Day  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1d/28/d7/1d28d78b-a9e3-b0de-fb36-de221d09e2c6/DP_10459864_SPIDER-MANBRANDNEWDAY_2000x3000_PreorderKeyArt_English.png/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/spider-man-brand-new-day/id6793590242?uo=2&#34;&gt;Spider-Man: Brand New Day&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/destin-daniel-cretton/583588579?uo=2&#34;&gt;Destin Daniel Cretton&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2&#34;&gt;Action &amp; Adventure&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $24.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; July 31, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;It&amp;#39;s a BRAND NEW DAY for Peter Parker. Fighting crime full-time as Spider-Man in a world that doesn&amp;#39;t remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see. The world may have forgotten Peter Parker, but he hasn&amp;#39;t forgotten them.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; 2026 Columbia Pictures Industries, Inc. and TSG Entertainment II LLC. All Rights Reserved. MARVEL and all related character names: © and TM 2026 MARVEL.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6812633424">
+          https://itunes.apple.com/us/movie/the-dog-stars/id6812633424?uo=2
+        </id>
+        <title>
+          The Dog Stars - Ridley Scott
+        </title>
+        <summary>
+          Ridley Scott’s “The Dog Stars” is a riveting, epic thriller set in a world where survival is instinct, but humanity is a choice. Scott tells the story of Hig (Jacob Elordi), a young pilot who, together with a military survivalist, Bangley (Josh Brolin), has carved out an efficient but isolated homestead in a brutal post-apocalyptic world. When a mysterious radio transmission reaches Hig, it spurs him to venture into the unknown in search of the hope and humanity he still believes exists. Based on Peter Heller’s captivating bestseller, “The Dog Stars” features a critically acclaimed ensemble, including Margaret Qualley and Guy Pearce. The film is written by Mark L. Smith and directed by Ridley Scott. Some flashing lights sequences or patterns may affect photosensitive viewers.
+        </summary>
+        <im:name>
+          The Dog Stars
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/the-dog-stars/id6812633424?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4416" term="Thriller" scheme="https://itunes.apple.com/us/genre/movies-thriller/id4416?uo=2" label="Thriller">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/a3/5e/9f/a35e9f33-9564-f30d-a9b1-808bcd7821df/mzvf_8438284579142651396.640x354.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              128360.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/james-craze/6812633426?uo=2">
+              Ridley Scott
+            </im:artist>
+            <im:price amount="24.99" currency="USD">
+              $24.99
+            </im:price>
+            <im:rentalprice amount="19.99" currency="USD">
+              $19.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b4/9b/54/b49b5457-ecf6-b887-9ad6-45a8daa934b4/TheDogStars_Apple_CoverArt_2000x3000.png/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b4/9b/54/b49b5457-ecf6-b887-9ad6-45a8daa934b4/TheDogStars_Apple_CoverArt_2000x3000.png/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b4/9b/54/b49b5457-ecf6-b887-9ad6-45a8daa934b4/TheDogStars_Apple_CoverArt_2000x3000.png/115x170bb.png
+            </im:image>
+            <rights>
+              © 2026 20th Century Studios
+            </rights>
+            <im:releasedate label="August 26, 2026">
+              2026-08-26T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/the-dog-stars/id6812633424?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Ridley Scott - The Dog Stars  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b4/9b/54/b49b5457-ecf6-b887-9ad6-45a8daa934b4/TheDogStars_Apple_CoverArt_2000x3000.png/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/the-dog-stars/id6812633424?uo=2&#34;&gt;The Dog Stars&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/james-craze/6812633426?uo=2&#34;&gt;Ridley Scott&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-thriller/id4416?uo=2&#34;&gt;Thriller&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $24.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; August 26, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;Ridley Scott’s “The Dog Stars” is a riveting, epic thriller set in a world where survival is instinct, but humanity is a choice. Scott tells the story of Hig (Jacob Elordi), a young pilot who, together with a military survivalist, Bangley (Josh Brolin), has carved out an efficient but isolated homestead in a brutal post-apocalyptic world. When a mysterious radio transmission reaches Hig, it spurs him to venture into the unknown in search of the hope and humanity he still believes exists. Based on Peter Heller’s captivating bestseller, “The Dog Stars” features a critically acclaimed ensemble, including Margaret Qualley and Guy Pearce. The film is written by Mark L. Smith and directed by Ridley Scott. Some flashing lights sequences or patterns may affect photosensitive viewers.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2026 20th Century Studios&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6788867495">
+          https://itunes.apple.com/us/movie/the-end-of-oak-street/id6788867495?uo=2
+        </id>
+        <title>
+          The End of Oak Street - David Robert Mitchell
+        </title>
+        <summary>
+          When a cosmic anomaly shatters suburbia, one family is thrust into a high-stakes, reality-bending adventure where time collapses, chaos moves in next door, and survival depends on sticking together.
+        </summary>
+        <im:name>
+          The End of Oak Street
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/the-end-of-oak-street/id6788867495?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4416" term="Thriller" scheme="https://itunes.apple.com/us/genre/movies-thriller/id4416?uo=2" label="Thriller">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/f4/59/a1/f459a107-b4ad-984f-aca8-fd915f3baeab/mzvf_15555553620843313949.640x354.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              84986.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/anne-hathaway/3260249?uo=2">
+              David Robert Mitchell
+            </im:artist>
+            <im:price amount="12.99" currency="USD">
+              $12.99
+            </im:price>
+            <im:rentalprice amount="6.99" currency="USD">
+              $6.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b5/8e/52/b58e52f2-d414-d676-786e-ef092891da36/End_of_Oak_Street_PREM_V_KA_TT_2000x3000_300dpi_EN.png/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b5/8e/52/b58e52f2-d414-d676-786e-ef092891da36/End_of_Oak_Street_PREM_V_KA_TT_2000x3000_300dpi_EN.png/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b5/8e/52/b58e52f2-d414-d676-786e-ef092891da36/End_of_Oak_Street_PREM_V_KA_TT_2000x3000_300dpi_EN.png/115x170bb.png
+            </im:image>
+            <rights>
+              &#34;LONG VERSION:© 2025 Warner Bros. Ent. All Rights Reserved.SHORT VERSION:© 2025 WBEI.&#34;
+            </rights>
+            <im:releasedate label="August 14, 2026">
+              2026-08-14T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/the-end-of-oak-street/id6788867495?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;David Robert Mitchell - The End of Oak Street  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b5/8e/52/b58e52f2-d414-d676-786e-ef092891da36/End_of_Oak_Street_PREM_V_KA_TT_2000x3000_300dpi_EN.png/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/the-end-of-oak-street/id6788867495?uo=2&#34;&gt;The End of Oak Street&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/anne-hathaway/3260249?uo=2&#34;&gt;David Robert Mitchell&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-thriller/id4416?uo=2&#34;&gt;Thriller&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $12.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $6.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; August 14, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;When a cosmic anomaly shatters suburbia, one family is thrust into a high-stakes, reality-bending adventure where time collapses, chaos moves in next door, and survival depends on sticking together.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; &amp;quot;LONG VERSION:© 2025 Warner Bros. Ent. All Rights Reserved.SHORT VERSION:© 2025 WBEI.&amp;quot;&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6805267689">
+          https://itunes.apple.com/us/movie/by-any-means/id6805267689?uo=2
+        </id>
+        <title>
+          By Any Means - Elegance Bratton
+        </title>
+        <summary>
+          Inspired by a true story. In 1960s Mississippi, a straight-laced FBI agent partners with a ruthless Mafia hitman, but their pursuit of justice leads them further from the law.
+        </summary>
+        <im:name>
+          By Any Means
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/by-any-means/id6805267689?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4401" term="Action &amp; Adventure" scheme="https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2" label="Action &amp; Adventure">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/68/ec/34/68ec3480-8e30-6b22-633f-2095ee8a8ab7/mzvf_15029923825773642354.640x354.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              164560.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/yahya-abdul-mateen-ii/1586379916?uo=2">
+              Elegance Bratton
+            </im:artist>
+            <im:price amount="24.99" currency="USD">
+              $24.99
+            </im:price>
+            <im:rentalprice amount="19.99" currency="USD">
+              $19.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/2a/b3/71/2ab37114-7fc2-195e-523c-689d8310900f/By_Any_Means_EN_AMZ_2000x3000.jpg/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/2a/b3/71/2ab37114-7fc2-195e-523c-689d8310900f/By_Any_Means_EN_AMZ_2000x3000.jpg/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/2a/b3/71/2ab37114-7fc2-195e-523c-689d8310900f/By_Any_Means_EN_AMZ_2000x3000.jpg/115x170bb.png
+            </im:image>
+            <rights>
+              © 2026 Paramount Pictures
+            </rights>
+            <im:releasedate label="September 4, 2026">
+              2026-09-04T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/by-any-means/id6805267689?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Elegance Bratton - By Any Means  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/2a/b3/71/2ab37114-7fc2-195e-523c-689d8310900f/By_Any_Means_EN_AMZ_2000x3000.jpg/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/by-any-means/id6805267689?uo=2&#34;&gt;By Any Means&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/yahya-abdul-mateen-ii/1586379916?uo=2&#34;&gt;Elegance Bratton&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2&#34;&gt;Action &amp; Adventure&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $24.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; September 4, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;Inspired by a true story. In 1960s Mississippi, a straight-laced FBI agent partners with a ruthless Mafia hitman, but their pursuit of justice leads them further from the law. &lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2026 Paramount Pictures &lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6803706922">
+          https://itunes.apple.com/us/movie/practical-magic-2/id6803706922?uo=2
+        </id>
+        <title>
+          Practical Magic 2 - Susanne Bier
+        </title>
+        <summary>
+          Starring Sandra Bullock and Nicole Kidman, PRACTICAL MAGIC 2 returns to a world steeped in moonlit mischief and powerful ancestral magic, as the Owens sisters must confront the dark curse that threatens to unravel their family once and for all in a must-see cinematic event of fun, magic and mayhem.
+        </summary>
+        <im:name>
+          Practical Magic 2
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/practical-magic-2/id6803706922?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4404" term="Comedy" scheme="https://itunes.apple.com/us/genre/movies-comedy/id4404?uo=2" label="Comedy">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/e4/4e/1c/e44e1c62-90e0-9955-6d24-7833399d932c/mzvf_15359391274791814974.640x356.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              161170.0
+            </im:duration>
+            <im:artist href="https://music.apple.com/us/artist/joey-king/385225479?uo=2">
+              Susanne Bier
+            </im:artist>
+            <im:price amount="24.99" currency="USD">
+              $24.99
+            </im:price>
+            <im:rentalprice amount="19.99" currency="USD">
+              $19.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/d8/ec/a2/d8eca2fc-807c-c146-6818-bf085c851ab6/Practical_Magic_2_PREM_V_KA_TT_2000x3000_EN.png/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/d8/ec/a2/d8eca2fc-807c-c146-6818-bf085c851ab6/Practical_Magic_2_PREM_V_KA_TT_2000x3000_EN.png/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/d8/ec/a2/d8eca2fc-807c-c146-6818-bf085c851ab6/Practical_Magic_2_PREM_V_KA_TT_2000x3000_EN.png/115x170bb.png
+            </im:image>
+            <rights>
+              © 2026 Warner Bros. Entertainment Inc. All Rights Reserved.
+            </rights>
+            <im:releasedate label="September 11, 2026">
+              2026-09-11T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/practical-magic-2/id6803706922?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Susanne Bier - Practical Magic 2  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/d8/ec/a2/d8eca2fc-807c-c146-6818-bf085c851ab6/Practical_Magic_2_PREM_V_KA_TT_2000x3000_EN.png/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/practical-magic-2/id6803706922?uo=2&#34;&gt;Practical Magic 2&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://music.apple.com/us/artist/joey-king/385225479?uo=2&#34;&gt;Susanne Bier&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-comedy/id4404?uo=2&#34;&gt;Comedy&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $24.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; September 11, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;Starring Sandra Bullock and Nicole Kidman, PRACTICAL MAGIC 2 returns to a world steeped in moonlit mischief and powerful ancestral magic, as the Owens sisters must confront the dark curse that threatens to unravel their family once and for all in a must-see cinematic event of fun, magic and mayhem.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2026 Warner Bros. Entertainment Inc. All Rights Reserved. &lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6805025142">
+          https://itunes.apple.com/us/movie/coyote-vs-acme/id6805025142?uo=2
+        </id>
+        <title>
+          Coyote vs. Acme - Dave Green
+        </title>
+        <summary>
+          After ACME products fail Wile E. Coyote one too many times in his pursuit of the Roadrunner, Wile E. Coyote decides to hire a down-on-his-luck human attorney to sue the ACME Corporation, represented by Buddy Crane, the slick, formidable, legal counsel for profit-obsessed ACME.
+        </summary>
+        <im:name>
+          Coyote vs. Acme
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/coyote-vs-acme/id6805025142?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4404" term="Comedy" scheme="https://itunes.apple.com/us/genre/movies-comedy/id4404?uo=2" label="Comedy">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/30/70/3d/30703d5b-36c1-3ac5-3411-c49a48cc6871/mzvf_16012456779562656141.640x356.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              135953.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/john-cena/64637506?uo=2">
+              Dave Green
+            </im:artist>
+            <im:price amount="14.99" currency="USD">
+              $14.99
+            </im:price>
+            <im:rentalprice amount="5.99" currency="USD">
+              $5.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/9e/b9/1a/9eb91a5c-41b5-d06a-f053-809d77037bd8/COYOTE_VS_ACME__Apple_poster_art_2000x3000.png/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/9e/b9/1a/9eb91a5c-41b5-d06a-f053-809d77037bd8/COYOTE_VS_ACME__Apple_poster_art_2000x3000.png/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/9e/b9/1a/9eb91a5c-41b5-d06a-f053-809d77037bd8/COYOTE_VS_ACME__Apple_poster_art_2000x3000.png/115x170bb.png
+            </im:image>
+            <rights>
+              ©2023 WARNER BROS. ENTERTAINMENT INC. ALL RIGHTS RESERVED.
+            </rights>
+            <im:releasedate label="August 28, 2026">
+              2026-08-28T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/coyote-vs-acme/id6805025142?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Dave Green - Coyote vs. Acme  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/9e/b9/1a/9eb91a5c-41b5-d06a-f053-809d77037bd8/COYOTE_VS_ACME__Apple_poster_art_2000x3000.png/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/coyote-vs-acme/id6805025142?uo=2&#34;&gt;Coyote vs. Acme&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/john-cena/64637506?uo=2&#34;&gt;Dave Green&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-comedy/id4404?uo=2&#34;&gt;Comedy&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $14.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $5.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; August 28, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;After ACME products fail Wile E. Coyote one too many times in his pursuit of the Roadrunner, Wile E. Coyote decides to hire a down-on-his-luck human attorney to sue the ACME Corporation, represented by Buddy Crane, the slick, formidable, legal counsel for profit-obsessed ACME.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; ©2023 WARNER BROS. ENTERTAINMENT INC. ALL RIGHTS RESERVED.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6811252847">
+          https://itunes.apple.com/us/movie/forgotten-island/id6811252847?uo=2
+        </id>
+        <title>
+          Forgotten Island - Joel Crawford &amp; Januel Mercado
+        </title>
+        <summary>
+          On their last night before embarking on separate life paths, best friends Jo and Raissa find a mysterious portal that transports them to Nakali, a mythical island filled with magical creatures they learned about from their Filipino families. As Jo and Raissa search for a way home, they discover their memories are at risk. Will they find a way off the island before they forget each other forever?
+        </summary>
+        <im:name>
+          Forgotten Island
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/forgotten-island/id6811252847?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4410" term="Kids &amp; Family" scheme="https://itunes.apple.com/us/genre/movies-kids-family/id4410?uo=2" label="Kids &amp; Family">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/a2/c9/8a/a2c98aeb-956d-4eb9-1940-3fca0b3a2a9e/mzvf_3139720761417499970.640x362.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              181627.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/ronny-chieng/1570118000?uo=2">
+              Joel Crawford &amp; Januel Mercado
+            </im:artist>
+            <im:price amount="29.99" currency="USD">
+              $29.99
+            </im:price>
+            <im:rentalprice amount="19.99" currency="USD">
+              $19.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/56/60/1d/56601def-79d1-cbdc-2d36-a0c646469283/ForgottenIsland_AllWindow_LSR_2000x3000.jpg/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/56/60/1d/56601def-79d1-cbdc-2d36-a0c646469283/ForgottenIsland_AllWindow_LSR_2000x3000.jpg/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/56/60/1d/56601def-79d1-cbdc-2d36-a0c646469283/ForgottenIsland_AllWindow_LSR_2000x3000.jpg/115x170bb.png
+            </im:image>
+            <rights>
+              © DreamWorks Forgotten Island 2026 DreamWorks Animation LLC. All Rights Reserved.
+            </rights>
+            <im:releasedate label="September 25, 2026">
+              2026-09-25T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/forgotten-island/id6811252847?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Joel Crawford &amp; Januel Mercado - Forgotten Island  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/56/60/1d/56601def-79d1-cbdc-2d36-a0c646469283/ForgottenIsland_AllWindow_LSR_2000x3000.jpg/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/forgotten-island/id6811252847?uo=2&#34;&gt;Forgotten Island&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/ronny-chieng/1570118000?uo=2&#34;&gt;Joel Crawford &amp;amp; Januel Mercado&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-kids-family/id4410?uo=2&#34;&gt;Kids &amp; Family&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $29.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; September 25, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;On their last night before embarking on separate life paths, best friends Jo and Raissa find a mysterious portal that transports them to Nakali, a mythical island filled with magical creatures they learned about from their Filipino families. As Jo and Raissa search for a way home, they discover their memories are at risk. Will they find a way off the island before they forget each other forever?&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © DreamWorks Forgotten Island 2026 DreamWorks Animation LLC. All Rights Reserved.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6785562001">
+          https://itunes.apple.com/us/movie/the-weight/id6785562001?uo=2
+        </id>
+        <title>
+          The Weight - Padraic McKinley
+        </title>
+        <summary>
+          When Samuel (Ethan Hawke) is torn from his daughter and sent to a brutal prison, Warden Clancy (Russell Crowe) offers a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom. But as the group journeys into the unforgiving wilderness, the real threat isn’t the terrain - it’s the betrayal and violence festering within their ranks. Surrounded by greed, suspicion, and danger, Samuel must risk everything to reunite with his child.
+        </summary>
+        <im:name>
+          The Weight
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/the-weight/id6785562001?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4416" term="Thriller" scheme="https://itunes.apple.com/us/genre/movies-thriller/id4416?uo=2" label="Thriller">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/18/bb/04/18bb0480-db50-8668-f27a-987a3a47d55e/mzvf_11107236628877221358.640x354.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              138368.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/ethan-hawke/3603854?uo=2">
+              Padraic McKinley
+            </im:artist>
+            <im:price amount="24.99" currency="USD">
+              $24.99
+            </im:price>
+            <im:rentalprice amount="19.99" currency="USD">
+              $19.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/52/bf/aa/52bfaa8f-eaff-505a-0322-0eb1effe5a98/TheWeight_iTunes_Poster_2000x3000.jpg/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/52/bf/aa/52bfaa8f-eaff-505a-0322-0eb1effe5a98/TheWeight_iTunes_Poster_2000x3000.jpg/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/52/bf/aa/52bfaa8f-eaff-505a-0322-0eb1effe5a98/TheWeight_iTunes_Poster_2000x3000.jpg/115x170bb.png
+            </im:image>
+            <rights>
+              © 2026 Fields Entertainment / augenschein Filmproduktion. All Rights Reserved.
+            </rights>
+            <im:releasedate label="September 18, 2026">
+              2026-09-18T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/the-weight/id6785562001?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Padraic McKinley - The Weight  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/52/bf/aa/52bfaa8f-eaff-505a-0322-0eb1effe5a98/TheWeight_iTunes_Poster_2000x3000.jpg/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/the-weight/id6785562001?uo=2&#34;&gt;The Weight&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/ethan-hawke/3603854?uo=2&#34;&gt;Padraic McKinley&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-thriller/id4416?uo=2&#34;&gt;Thriller&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $24.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; September 18, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;When Samuel (Ethan Hawke) is torn from his daughter and sent to a brutal prison, Warden Clancy (Russell Crowe) offers a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom. But as the group journeys into the unforgiving wilderness, the real threat isn’t the terrain - it’s the betrayal and violence festering within their ranks. Surrounded by greed, suspicion, and danger, Samuel must risk everything to reunite with his child.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2026 Fields Entertainment / augenschein Filmproduktion. All Rights Reserved.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6799165508">
+          https://itunes.apple.com/us/movie/buddy/id6799165508?uo=2
+        </id>
+        <title>
+          Buddy - Casper Kelly
+        </title>
+        <summary>
+          Inside the colorful world of &#34;It&#39;s Buddy!&#34;, a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.
+        </summary>
+        <im:name>
+          Buddy
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/buddy/id6799165508?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4408" term="Horror" scheme="https://itunes.apple.com/us/genre/movies-horror/id4408?uo=2" label="Horror">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/01/7a/7d/017a7d42-eb41-9419-0a8b-c57d892535cd/mzvf_8500086245667884951.640x480.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              43143.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/casper-kelly/6799169533?uo=2">
+              Casper Kelly
+            </im:artist>
+            <im:price amount="24.99" currency="USD">
+              $24.99
+            </im:price>
+            <im:rentalprice amount="19.99" currency="USD">
+              $19.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/57/bb/eb/57bbeb9a-7c80-667a-ad01-36e44781e245/Buddy_U00282026_U0029_iTunesStore_2000x3000_CoverArt.png/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/57/bb/eb/57bbeb9a-7c80-667a-ad01-36e44781e245/Buddy_U00282026_U0029_iTunesStore_2000x3000_CoverArt.png/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/57/bb/eb/57bbeb9a-7c80-667a-ad01-36e44781e245/Buddy_U00282026_U0029_iTunesStore_2000x3000_CoverArt.png/115x170bb.png
+            </im:image>
+            <rights>
+              © 2026 Worry Well Productions LLC. All Rights Reserved.
+            </rights>
+            <im:releasedate label="August 28, 2026">
+              2026-08-28T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/buddy/id6799165508?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Casper Kelly - Buddy  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/57/bb/eb/57bbeb9a-7c80-667a-ad01-36e44781e245/Buddy_U00282026_U0029_iTunesStore_2000x3000_CoverArt.png/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/buddy/id6799165508?uo=2&#34;&gt;Buddy&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/casper-kelly/6799169533?uo=2&#34;&gt;Casper Kelly&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-horror/id4408?uo=2&#34;&gt;Horror&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $24.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; August 28, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;Inside the colorful world of &amp;#34;It&amp;#39;s Buddy!&amp;#34;, a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2026 Worry Well Productions LLC. All Rights Reserved.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="295140692">
+          https://itunes.apple.com/us/movie/body-of-lies/id295140692?uo=2
+        </id>
+        <title>
+          Body of Lies - Ridley Scott
+        </title>
+        <summary>
+          Roger Ferris (Leonardo DiCaprio) is the best man U.S. Intelligence has on the ground, in places where human life is worth no more than the information it can get you. In operations that take him around the globe, Ferris&#39; next breath often depends on the voice at the other end of a secure phone line--CIA veteran Ed Hoffman (Russell Crowe). Strategizing from a laptop in the suburbs, Hoffman is on the trail of an emerging terrorist leader who has orchestrated a campaign of bombings while eluding the most sophisticated intelligence network in the world. To lure the terrorist out into the open, Ferris will have to penetrate his murky world, but the closer Ferris gets to the target, the more he discovers that trust is both a dangerous commodity and the only one that will get him out alive.
+        </summary>
+        <im:name>
+          Body of Lies
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/body-of-lies/id295140692?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4401" term="Action &amp; Adventure" scheme="https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2" label="Action &amp; Adventure">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video118/v4/b9/79/47/b9794749-d3be-f1c3-a43d-64629fdf40be/mzvf_9181428608347285875.640x480.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              145773.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/ridley-scott/209052925?uo=2">
+              Ridley Scott
+            </im:artist>
+            <im:price amount="1.99" currency="USD">
+              $1.99
+            </im:price>
+            <im:rentalprice amount="5.99" currency="USD">
+              $5.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video49/v4/84/31/01/84310192-150c-06c0-c639-e11dc456f7cf/pr_source.lsr/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video49/v4/84/31/01/84310192-150c-06c0-c639-e11dc456f7cf/pr_source.lsr/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video49/v4/84/31/01/84310192-150c-06c0-c639-e11dc456f7cf/pr_source.lsr/115x170bb.png
+            </im:image>
+            <rights>
+              © 2008 Warner Bros. Inc. All Rights Reserved.
+            </rights>
+            <im:releasedate label="October 10, 2008">
+              2008-10-10T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/body-of-lies/id295140692?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Ridley Scott - Body of Lies  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video49/v4/84/31/01/84310192-150c-06c0-c639-e11dc456f7cf/pr_source.lsr/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/body-of-lies/id295140692?uo=2&#34;&gt;Body of Lies&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/ridley-scott/209052925?uo=2&#34;&gt;Ridley Scott&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2&#34;&gt;Action &amp; Adventure&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $1.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $5.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; October 10, 2008
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;Roger Ferris (Leonardo DiCaprio) is the best man U.S. Intelligence has on the ground, in places where human life is worth no more than the information it can get you. In operations that take him around the globe, Ferris&amp;#39; next breath often depends on the voice at the other end of a secure phone line--CIA veteran Ed Hoffman (Russell Crowe). Strategizing from a laptop in the suburbs, Hoffman is on the trail of an emerging terrorist leader who has orchestrated a campaign of bombings while eluding the most sophisticated intelligence network in the world. To lure the terrorist out into the open, Ferris will have to penetrate his murky world, but the closer Ferris gets to the target, the more he discovers that trust is both a dangerous commodity and the only one that will get him out alive.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2008 Warner Bros. Inc. All Rights Reserved.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6799184988">
+          https://itunes.apple.com/us/movie/runner/id6799184988?uo=2
+        </id>
+        <title>
+          Runner - Scott Waugh
+        </title>
+        <summary>
+          A former soldier (Alan Ritchson) is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner (Owen Wilson) the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.
+        </summary>
+        <im:name>
+          Runner
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/runner/id6799184988?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4401" term="Action &amp; Adventure" scheme="https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2" label="Action &amp; Adventure">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/02/0c/37/020c37d4-202f-b32c-02ec-5c9e56c0e7e0/mzvf_3724095244313749463.640x356.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              143128.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/scott-waugh/1353047211?uo=2">
+              Scott Waugh
+            </im:artist>
+            <im:price amount="24.99" currency="USD">
+              $24.99
+            </im:price>
+            <im:rentalprice amount="19.99" currency="USD">
+              $19.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f9/fd/0f/f9fd0fee-e646-8a3b-33f4-ac0fd3158140/Runner-Title-Art-2000x3000.png/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f9/fd/0f/f9fd0fee-e646-8a3b-33f4-ac0fd3158140/Runner-Title-Art-2000x3000.png/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f9/fd/0f/f9fd0fee-e646-8a3b-33f4-ac0fd3158140/Runner-Title-Art-2000x3000.png/115x170bb.png
+            </im:image>
+            <im:releasedate label="September 11, 2026">
+              2026-09-11T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/runner/id6799184988?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Scott Waugh - Runner  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f9/fd/0f/f9fd0fee-e646-8a3b-33f4-ac0fd3158140/Runner-Title-Art-2000x3000.png/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/runner/id6799184988?uo=2&#34;&gt;Runner&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/scott-waugh/1353047211?uo=2&#34;&gt;Scott Waugh&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2&#34;&gt;Action &amp; Adventure&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $24.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; September 11, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;A former soldier (Alan Ritchson) is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner (Owen Wilson) the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="1895945921">
+          https://itunes.apple.com/us/movie/obsession-2026/id1895945921?uo=2
+        </id>
+        <title>
+          Obsession (2026) - Curry Barker
+        </title>
+        <summary>
+          After breaking the mysterious &#34;One Wish Willow&#34; to win his crush&#39;s heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.
+        </summary>
+        <im:name>
+          Obsession (2026)
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/obsession-2026/id1895945921?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4408" term="Horror" scheme="https://itunes.apple.com/us/genre/movies-horror/id4408?uo=2" label="Horror">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/95/e3/d6/95e3d6fe-c74f-3759-0b6e-d352136207dd/mzvf_3423949509736181867.640x480.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              135860.0
+            </im:duration>
+            <im:artist href="https://music.apple.com/us/artist/curry-barker/1636418594?uo=2">
+              Curry Barker
+            </im:artist>
+            <im:price amount="9.99" currency="USD">
+              $9.99
+            </im:price>
+            <im:rentalprice amount="5.99" currency="USD">
+              $5.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/26/db/16/26db1681-d180-1d95-cb5d-7c6f3199e8fe/OBSESSION_PVOD_LSR_2000x3000_Poster.jpg/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/26/db/16/26db1681-d180-1d95-cb5d-7c6f3199e8fe/OBSESSION_PVOD_LSR_2000x3000_Poster.jpg/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/26/db/16/26db1681-d180-1d95-cb5d-7c6f3199e8fe/OBSESSION_PVOD_LSR_2000x3000_Poster.jpg/115x170bb.png
+            </im:image>
+            <rights>
+              © 2026 Focus Features LLC. All Rights Reserved.
+            </rights>
+            <im:releasedate label="May 15, 2026">
+              2026-05-15T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/obsession-2026/id1895945921?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Curry Barker - Obsession (2026)  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/26/db/16/26db1681-d180-1d95-cb5d-7c6f3199e8fe/OBSESSION_PVOD_LSR_2000x3000_Poster.jpg/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/obsession-2026/id1895945921?uo=2&#34;&gt;Obsession (2026)&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://music.apple.com/us/artist/curry-barker/1636418594?uo=2&#34;&gt;Curry Barker&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-horror/id4408?uo=2&#34;&gt;Horror&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $9.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $5.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; May 15, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;After breaking the mysterious &amp;#34;One Wish Willow&amp;#34; to win his crush&amp;#39;s heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2026 Focus Features LLC. All Rights Reserved.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6796830768">
+          https://itunes.apple.com/us/movie/insidious-out-of-the-further/id6796830768?uo=2
+        </id>
+        <title>
+          Insidious: Out of the Further - Jacob Chase
+        </title>
+        <summary>
+          In Insidious: Out of the Further, Amelia Eve stars as Gemma, a young mother raising her daughter in the house she grew up in who discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn&#39;t just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.
+        </summary>
+        <im:name>
+          Insidious: Out of the Further
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/insidious-out-of-the-further/id6796830768?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4408" term="Horror" scheme="https://itunes.apple.com/us/genre/movies-horror/id4408?uo=2" label="Horror">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/5c/3b/01/5c3b01c1-c68c-33e8-f552-c6bb0bbb6c10/mzvf_11464843415214381727.640x356.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              147169.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/amelia-eve/1552231934?uo=2">
+              Jacob Chase
+            </im:artist>
+            <im:price amount="14.99" currency="USD">
+              $14.99
+            </im:price>
+            <im:rentalprice amount="9.99" currency="USD">
+              $9.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c3/e4/5a/c3e45a67-bd8f-848e-b34d-b0d8b0ef99fc/SPE_INSIDIOUS_OUT_OF_THE_FURTHER_TH_PRE_WW_ARTWORK_EN-US_2000x3000_3U6QFC000008DU.jpg/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c3/e4/5a/c3e45a67-bd8f-848e-b34d-b0d8b0ef99fc/SPE_INSIDIOUS_OUT_OF_THE_FURTHER_TH_PRE_WW_ARTWORK_EN-US_2000x3000_3U6QFC000008DU.jpg/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c3/e4/5a/c3e45a67-bd8f-848e-b34d-b0d8b0ef99fc/SPE_INSIDIOUS_OUT_OF_THE_FURTHER_TH_PRE_WW_ARTWORK_EN-US_2000x3000_3U6QFC000008DU.jpg/115x170bb.png
+            </im:image>
+            <rights>
+              ©
+            </rights>
+            <im:releasedate label="August 21, 2026">
+              2026-08-21T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/insidious-out-of-the-further/id6796830768?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Jacob Chase - Insidious: Out of the Further  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c3/e4/5a/c3e45a67-bd8f-848e-b34d-b0d8b0ef99fc/SPE_INSIDIOUS_OUT_OF_THE_FURTHER_TH_PRE_WW_ARTWORK_EN-US_2000x3000_3U6QFC000008DU.jpg/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/insidious-out-of-the-further/id6796830768?uo=2&#34;&gt;Insidious: Out of the Further&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/amelia-eve/1552231934?uo=2&#34;&gt;Jacob Chase&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-horror/id4408?uo=2&#34;&gt;Horror&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $14.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $9.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; August 21, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;In Insidious: Out of the Further, Amelia Eve stars as Gemma, a young mother raising her daughter in the house she grew up in who discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn&amp;#39;t just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; ©&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="1896873728">
+          https://itunes.apple.com/us/movie/backrooms/id1896873728?uo=2
+        </id>
+        <title>
+          Backrooms - Kane Parsons
+        </title>
+        <summary>
+          A strange doorway appears in the basement of a furniture showroom, leading to an endless network of interconnected rooms where time bends and the only thing scarier than getting lost is the sense that something is laying in wait. Directed by 20-year-old Kane Parsons, Backrooms transforms internet folklore into a real-world nightmare. Starring Chiwetel Ejiofor, Renate Reinsve and Mark Duplass.
+        </summary>
+        <im:name>
+          Backrooms
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/backrooms/id1896873728?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4413" term="Sci-Fi &amp; Fantasy" scheme="https://itunes.apple.com/us/genre/movies-sci-fi-fantasy/id4413?uo=2" label="Sci-Fi &amp; Fantasy">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/ec/a3/0d/eca30d39-fa25-cbbf-7de3-ea7fd14c7587/mzvf_3683640974948526472.640x460.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              133771.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/chiwetel-ejiofor/7386435?uo=2">
+              Kane Parsons
+            </im:artist>
+            <im:price amount="9.99" currency="USD">
+              $9.99
+            </im:price>
+            <im:rentalprice amount="7.99" currency="USD">
+              $7.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a0/0f/7e/a00f7e26-44eb-447a-6f6e-d989aed836f2/A24-Backrooms-V-2000x3000.jpg/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a0/0f/7e/a00f7e26-44eb-447a-6f6e-d989aed836f2/A24-Backrooms-V-2000x3000.jpg/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a0/0f/7e/a00f7e26-44eb-447a-6f6e-d989aed836f2/A24-Backrooms-V-2000x3000.jpg/115x170bb.png
+            </im:image>
+            <rights>
+              © 2026 Backrooms Rights LLC, PC Films, LLC. All Rights Reserved.
+            </rights>
+            <im:releasedate label="May 29, 2026">
+              2026-05-29T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/backrooms/id1896873728?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Kane Parsons - Backrooms  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a0/0f/7e/a00f7e26-44eb-447a-6f6e-d989aed836f2/A24-Backrooms-V-2000x3000.jpg/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/backrooms/id1896873728?uo=2&#34;&gt;Backrooms&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/chiwetel-ejiofor/7386435?uo=2&#34;&gt;Kane Parsons&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-sci-fi-fantasy/id4413?uo=2&#34;&gt;Sci-Fi &amp; Fantasy&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $9.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $7.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; May 29, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;A strange doorway appears in the basement of a furniture showroom, leading to an endless network of interconnected rooms where time bends and the only thing scarier than getting lost is the sense that something is laying in wait. Directed by 20-year-old Kane Parsons, Backrooms transforms internet folklore into a real-world nightmare. Starring Chiwetel Ejiofor, Renate Reinsve and Mark Duplass.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2026 Backrooms Rights LLC, PC Films, LLC. All Rights Reserved.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="1217957345">
+          https://itunes.apple.com/us/movie/scream-4/id1217957345?uo=2
+        </id>
+        <title>
+          Scream 4 - Wes Craven
+        </title>
+        <summary>
+          The original star-studded cast reunites a decade later in this  spine-chilling fourth installment of the $300M-grossing Scream franchise.  Sydney Prescott (Neve Campbell of The Craft), now the author of a self-help book, returns home to Woodsboro on the last stop   of her book tour.  There she reconnects with Sheriff Dewey (David Arquette of Never Been Kissed) and Gale (Courtney Cox of TV’s Friends), who are now married, as well as her cousin Jill (Emma Roberts of Valentine’s Day) and her Aunt Kate.  Unfortunately Sidney’s appearance also brings about the return of Ghostface, putting Sidney, Gale, and Dewey, along with Jill, her friends (including Hayden Panettiere of TV’s Heroes), and the whole town of Woodsboro in danger.
+        </summary>
+        <im:name>
+          Scream 4
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/scream-4/id1217957345?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4408" term="Horror" scheme="https://itunes.apple.com/us/genre/movies-horror/id4408?uo=2" label="Horror">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/4d/8f/67/4d8f676c-c0fe-d6e7-18e1-6b20a31dee7d/mzvf_11982257569021475251.640x354.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              104699.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/wes-craven/189034958?uo=2">
+              Wes Craven
+            </im:artist>
+            <im:price amount="14.99" currency="USD">
+              $14.99
+            </im:price>
+            <im:rentalprice amount="3.99" currency="USD">
+              $3.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/55/13/74/5513749b-0ecc-59f2-141c-9201fe11a429/Scream4_Transactional-Movies-Cover.png/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/55/13/74/5513749b-0ecc-59f2-141c-9201fe11a429/Scream4_Transactional-Movies-Cover.png/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/55/13/74/5513749b-0ecc-59f2-141c-9201fe11a429/Scream4_Transactional-Movies-Cover.png/115x170bb.png
+            </im:image>
+            <rights>
+              © 2011 The Weinstein Company LLC. All Rights Reserved.
+            </rights>
+            <im:releasedate label="April 15, 2011">
+              2011-04-15T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/scream-4/id1217957345?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Wes Craven - Scream 4  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/55/13/74/5513749b-0ecc-59f2-141c-9201fe11a429/Scream4_Transactional-Movies-Cover.png/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/scream-4/id1217957345?uo=2&#34;&gt;Scream 4&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/wes-craven/189034958?uo=2&#34;&gt;Wes Craven&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-horror/id4408?uo=2&#34;&gt;Horror&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $14.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $3.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; April 15, 2011
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;The original star-studded cast reunites a decade later in this  spine-chilling fourth installment of the $300M-grossing Scream franchise.  Sydney Prescott (Neve Campbell of The Craft), now the author of a self-help book, returns home to Woodsboro on the last stop   of her book tour.  There she reconnects with Sheriff Dewey (David Arquette of Never Been Kissed) and Gale (Courtney Cox of TV’s Friends), who are now married, as well as her cousin Jill (Emma Roberts of Valentine’s Day) and her Aunt Kate.  Unfortunately Sidney’s appearance also brings about the return of Ghostface, putting Sidney, Gale, and Dewey, along with Jill, her friends (including Hayden Panettiere of TV’s Heroes), and the whole town of Woodsboro in danger.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2011 The Weinstein Company LLC. All Rights Reserved.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="1802100718">
+          https://itunes.apple.com/us/movie/halloween/id1802100718?uo=2
+        </id>
+        <title>
+          Halloween - John Carpenter
+        </title>
+        <summary>
+          On a black and unholy Halloween night years ago, little Michael Myers brutally slaughtered his sister in cold blood. For the last fifteen years, the people of Haddonfield have rested easily, knowing that Michael was safely locked away in a mental hospital ... until tonight. Michael has escaped and he will soon return to the same quiet neighborhood to relive his grisly murder again. For this is a night of evil. Tonight is Halloween.
+        </summary>
+        <im:name>
+          Halloween
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/halloween/id1802100718?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4408" term="Horror" scheme="https://itunes.apple.com/us/genre/movies-horror/id4408?uo=2" label="Horror">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/f7/1e/79/f71e796a-88bc-d68a-2a79-d9aab5d56e86/mzvf_18358902744476308322.640x356.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              108647.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/jamie-lee-curtis/202888530?uo=2">
+              John Carpenter
+            </im:artist>
+            <im:price amount="7.99" currency="USD">
+              $7.99
+            </im:price>
+            <im:rentalprice amount="3.99" currency="USD">
+              $3.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/18/9f/cc/189fcc63-876e-5f12-3498-a1cc111543de/Halloween_iTunes_BoxArt_2000x3000.jpg/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/18/9f/cc/189fcc63-876e-5f12-3498-a1cc111543de/Halloween_iTunes_BoxArt_2000x3000.jpg/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/18/9f/cc/189fcc63-876e-5f12-3498-a1cc111543de/Halloween_iTunes_BoxArt_2000x3000.jpg/115x170bb.png
+            </im:image>
+            <rights>
+              ©2025 Compass International Pictures, Inc. under exclusive license to Shout! Factory
+            </rights>
+            <im:releasedate label="October 25, 1978">
+              1978-10-25T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/halloween/id1802100718?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;John Carpenter - Halloween  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/18/9f/cc/189fcc63-876e-5f12-3498-a1cc111543de/Halloween_iTunes_BoxArt_2000x3000.jpg/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/halloween/id1802100718?uo=2&#34;&gt;Halloween&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/jamie-lee-curtis/202888530?uo=2&#34;&gt;John Carpenter&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-horror/id4408?uo=2&#34;&gt;Horror&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $7.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $3.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; October 25, 1978
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;On a black and unholy Halloween night years ago, little Michael Myers brutally slaughtered his sister in cold blood. For the last fifteen years, the people of Haddonfield have rested easily, knowing that Michael was safely locked away in a mental hospital ... until tonight. Michael has escaped and he will soon return to the same quiet neighborhood to relive his grisly murder again. For this is a night of evil. Tonight is Halloween.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; ©2025 Compass International Pictures, Inc. under exclusive license to Shout! Factory&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6815076553">
+          https://itunes.apple.com/us/movie/never-after-dark/id6815076553?uo=2
+        </id>
+        <title>
+          Never After Dark - Dave Boyle
+        </title>
+        <summary>
+          English dub available. A wandering medium, Airi (Moeka Hoshi, “Shogun”), spends her life guiding restless spirits out of the world of the living accompanied by her constant companion: her dead sister Miku (Kurumi Inagaki). Summoned to exorcise a spirit from an isolated country house by the new owner, Teiko (Tae Kimura), she comes face to face with a grotesque apparition with powers that defy Airi’s experience. Faced with skepticism from Teiko’s son, Gunji (Kento Kako), she digs deeper into the house’s past until a secret comes to light — and Airi finds herself hunted by a far more unpredictable force. For the first time, her greatest adversary is not the supernatural, but the living. Director Dave Boyle spins a uniquely terrifying and hauntingly atmospheric ghost story.
+        </summary>
+        <im:name>
+          Never After Dark
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/never-after-dark/id6815076553?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4408" term="Horror" scheme="https://itunes.apple.com/us/genre/movies-horror/id4408?uo=2" label="Horror">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/87/d8/6e/87d86e4e-bdf8-9c06-b114-26310ad4fb19/mzvf_2045589183202629935.640x356.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              122555.0
+            </im:duration>
+            <im:artist href="https://music.apple.com/us/artist/moeka-hoshi/1524730945?uo=2">
+              Dave Boyle
+            </im:artist>
+            <im:price amount="16.99" currency="USD">
+              $16.99
+            </im:price>
+            <im:rentalprice amount="6.99" currency="USD">
+              $6.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/2e/cf/08/2ecf08cd-5c5c-52d3-c6a9-a8125440a261/MAG_NEVER_AFTER_DARK_TH_POSTER_WW_ARTWORK_EN_2000x3000_5JS4F80000030Q.jpg/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/2e/cf/08/2ecf08cd-5c5c-52d3-c6a9-a8125440a261/MAG_NEVER_AFTER_DARK_TH_POSTER_WW_ARTWORK_EN_2000x3000_5JS4F80000030Q.jpg/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/2e/cf/08/2ecf08cd-5c5c-52d3-c6a9-a8125440a261/MAG_NEVER_AFTER_DARK_TH_POSTER_WW_ARTWORK_EN_2000x3000_5JS4F80000030Q.jpg/115x170bb.png
+            </im:image>
+            <rights>
+              © 2025 Signal181, Inc. All Rights Reserved.
+            </rights>
+            <im:releasedate label="September 25, 2026">
+              2026-09-25T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/never-after-dark/id6815076553?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Dave Boyle - Never After Dark  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/2e/cf/08/2ecf08cd-5c5c-52d3-c6a9-a8125440a261/MAG_NEVER_AFTER_DARK_TH_POSTER_WW_ARTWORK_EN_2000x3000_5JS4F80000030Q.jpg/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/never-after-dark/id6815076553?uo=2&#34;&gt;Never After Dark&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://music.apple.com/us/artist/moeka-hoshi/1524730945?uo=2&#34;&gt;Dave Boyle&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-horror/id4408?uo=2&#34;&gt;Horror&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $16.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $6.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; September 25, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;English dub available. A wandering medium, Airi (Moeka Hoshi, “Shogun”), spends her life guiding restless spirits out of the world of the living accompanied by her constant companion: her dead sister Miku (Kurumi Inagaki). Summoned to exorcise a spirit from an isolated country house by the new owner, Teiko (Tae Kimura), she comes face to face with a grotesque apparition with powers that defy Airi’s experience. Faced with skepticism from Teiko’s son, Gunji (Kento Kako), she digs deeper into the house’s past until a secret comes to light — and Airi finds herself hunted by a far more unpredictable force. For the first time, her greatest adversary is not the supernatural, but the living. Director Dave Boyle spins a uniquely terrifying and hauntingly atmospheric ghost story.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2025 Signal181, Inc. All Rights Reserved.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="329144864">
+          https://itunes.apple.com/us/movie/hocus-pocus/id329144864?uo=2
+        </id>
+        <title>
+          Hocus Pocus - Kenny Ortega
+        </title>
+        <summary>
+          Hollywood superstar Bette Midler (Beaches) joins Sarah Jessica Parker (Honeymoon in Vegas) and Kathy Najimy (Sister Act) as three outlandishly wild witches who return from 17th Century Salem for a night of zany fun and comic chaos. After they&#39;re accidentally conjured up by some unsuspecting pranksters, the tricky 300-year-old trio sets out to cast a spell on the town and reclaim their youth - but first they must outwit three pesky kids who are determined to foil their scheme! Loaded with bewitching laughs and magical special effects, &#34;Hocus Pocus&#34; is an outrageous comedy that&#39;s sure to entertain everyone.
+        </summary>
+        <im:name>
+          Hocus Pocus
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/hocus-pocus/id329144864?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4410" term="Kids &amp; Family" scheme="https://itunes.apple.com/us/genre/movies-kids-family/id4410?uo=2" label="Kids &amp; Family">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video118/v4/1d/1d/21/1d1d216e-1dd4-0df8-119a-0a9eda158f6a/mzvf_8583273063883936242.640x480.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              114112.0
+            </im:duration>
+            <im:artist href="https://music.apple.com/us/artist/bette-midler/148261?uo=2">
+              Kenny Ortega
+            </im:artist>
+            <im:price amount="4.99" currency="USD">
+              $4.99
+            </im:price>
+            <im:rentalprice amount="3.99" currency="USD">
+              $3.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/55/a2/47/55a2476d-ac96-8b4f-73c2-798b96db171f/DIS_HOCUS_POCUS_REV_WW_ARTWORK_EN_2000x3000_1XX1U5000001VM.lsr/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/55/a2/47/55a2476d-ac96-8b4f-73c2-798b96db171f/DIS_HOCUS_POCUS_REV_WW_ARTWORK_EN_2000x3000_1XX1U5000001VM.lsr/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/55/a2/47/55a2476d-ac96-8b4f-73c2-798b96db171f/DIS_HOCUS_POCUS_REV_WW_ARTWORK_EN_2000x3000_1XX1U5000001VM.lsr/115x170bb.png
+            </im:image>
+            <rights>
+              © 1993 The Walt Disney Company, All Rights Reserved
+            </rights>
+            <im:releasedate label="July 16, 1993">
+              1993-07-16T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/hocus-pocus/id329144864?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Kenny Ortega - Hocus Pocus  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/55/a2/47/55a2476d-ac96-8b4f-73c2-798b96db171f/DIS_HOCUS_POCUS_REV_WW_ARTWORK_EN_2000x3000_1XX1U5000001VM.lsr/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/hocus-pocus/id329144864?uo=2&#34;&gt;Hocus Pocus&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://music.apple.com/us/artist/bette-midler/148261?uo=2&#34;&gt;Kenny Ortega&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-kids-family/id4410?uo=2&#34;&gt;Kids &amp; Family&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $4.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $3.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; July 16, 1993
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;Hollywood superstar Bette Midler (Beaches) joins Sarah Jessica Parker (Honeymoon in Vegas) and Kathy Najimy (Sister Act) as three outlandishly wild witches who return from 17th Century Salem for a night of zany fun and comic chaos. After they&amp;#39;re accidentally conjured up by some unsuspecting pranksters, the tricky 300-year-old trio sets out to cast a spell on the town and reclaim their youth - but first they must outwit three pesky kids who are determined to foil their scheme! Loaded with bewitching laughs and magical special effects, &amp;#34;Hocus Pocus&amp;#34; is an outrageous comedy that&amp;#39;s sure to entertain everyone.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 1993 The Walt Disney Company, All Rights Reserved&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6788028326">
+          https://itunes.apple.com/us/movie/paw-patrol-the-dino-movie/id6788028326?uo=2
+        </id>
+        <title>
+          PAW Patrol: The Dino Movie - Cal Brunker
+        </title>
+        <summary>
+          After their ship gets caught in a mysterious storm, the PAW Patrol pups crash land on an uncharted tropical island filled with dinosaurs. They meet Rex, a pup who has been stranded on the island for years and has become an expert in all things dino-related. When the PAW Patrol&#39;s archrival, Mayor Humdinger, begins recklessly mining in hopes of exploiting the island for its natural resources, he inadvertently causes a huge, dormant volcano to erupt. The PAW Patrol pups are thrown into a series of high-stakes, dino-sized rescues bigger than anything they&#39;ve done before, as they must stop Humdinger before everything on the island goes extinct.
+        </summary>
+        <im:name>
+          PAW Patrol: The Dino Movie
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/paw-patrol-the-dino-movie/id6788028326?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4410" term="Kids &amp; Family" scheme="https://itunes.apple.com/us/genre/movies-kids-family/id4410?uo=2" label="Kids &amp; Family">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/12/e8/19/12e8192b-cc3d-559d-297f-79263dd3870a/mzvf_2975335918558263757.640x356.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              140621.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/carter-young/1656642750?uo=2">
+              Cal Brunker
+            </im:artist>
+            <im:price amount="19.99" currency="USD">
+              $19.99
+            </im:price>
+            <im:rentalprice amount="17.99" currency="USD">
+              $17.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b1/b9/de/b1b9de57-d72f-eb90-4f9e-d8dc1fa6ad84/PawPatrolDinoMovie_EN_Full_Mech.jpg/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b1/b9/de/b1b9de57-d72f-eb90-4f9e-d8dc1fa6ad84/PawPatrolDinoMovie_EN_Full_Mech.jpg/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b1/b9/de/b1b9de57-d72f-eb90-4f9e-d8dc1fa6ad84/PawPatrolDinoMovie_EN_Full_Mech.jpg/115x170bb.png
+            </im:image>
+            <rights>
+              © 2026 Paramount Pictures
+            </rights>
+            <im:releasedate label="July 23, 2026">
+              2026-07-23T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/paw-patrol-the-dino-movie/id6788028326?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Cal Brunker - PAW Patrol: The Dino Movie  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b1/b9/de/b1b9de57-d72f-eb90-4f9e-d8dc1fa6ad84/PawPatrolDinoMovie_EN_Full_Mech.jpg/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/paw-patrol-the-dino-movie/id6788028326?uo=2&#34;&gt;PAW Patrol: The Dino Movie&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/carter-young/1656642750?uo=2&#34;&gt;Cal Brunker&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-kids-family/id4410?uo=2&#34;&gt;Kids &amp; Family&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $17.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; July 23, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;After their ship gets caught in a mysterious storm, the PAW Patrol pups crash land on an uncharted tropical island filled with dinosaurs. They meet Rex, a pup who has been stranded on the island for years and has become an expert in all things dino-related. When the PAW Patrol&amp;#39;s archrival, Mayor Humdinger, begins recklessly mining in hopes of exploiting the island for its natural resources, he inadvertently causes a huge, dormant volcano to erupt. The PAW Patrol pups are thrown into a series of high-stakes, dino-sized rescues bigger than anything they&amp;#39;ve done before, as they must stop Humdinger before everything on the island goes extinct.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2026 Paramount Pictures&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6799248851">
+          https://itunes.apple.com/us/movie/hope/id6799248851?uo=2
+        </id>
+        <title>
+          Hope - Na Hong-jin
+        </title>
+        <summary>
+          In the small town of Hope Harbor, a group of police officers and hunters attempt to track down a mysterious creature wreaking havoc. What begins as a search for a wild animal becomes a catastrophe of cosmic proportions as they become prey for these otherworldly beings.
+        </summary>
+        <im:name>
+          Hope
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/hope/id6799248851?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4401" term="Action &amp; Adventure" scheme="https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2" label="Action &amp; Adventure">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/07/a8/c8/07a8c80c-8db2-c9a2-552a-e4f4ab0a96f4/mzvf_9814600059994185596.640x356.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              120559.0
+            </im:duration>
+            <im:artist href="https://music.apple.com/us/artist/hoyeon/1587844154?uo=2">
+              Na Hong-jin
+            </im:artist>
+            <im:price amount="24.99" currency="USD">
+              $24.99
+            </im:price>
+            <im:rentalprice amount="19.99" currency="USD">
+              $19.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e9/85/8b/e9858b8b-8883-3801-0cd1-470f0685e1a5/Neon_Hope_Poster_2000x3000_R1.png/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e9/85/8b/e9858b8b-8883-3801-0cd1-470f0685e1a5/Neon_Hope_Poster_2000x3000_R1.png/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e9/85/8b/e9858b8b-8883-3801-0cd1-470f0685e1a5/Neon_Hope_Poster_2000x3000_R1.png/115x170bb.png
+            </im:image>
+            <rights>
+              © 2026 PLUS M ENTERTAINMENT, FORGED FILMS CO LTD, AND NA HONG-JIN. ALL RIGHTS RESERVED.
+            </rights>
+            <im:releasedate label="September 9, 2026">
+              2026-09-09T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/hope/id6799248851?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Na Hong-jin - Hope  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e9/85/8b/e9858b8b-8883-3801-0cd1-470f0685e1a5/Neon_Hope_Poster_2000x3000_R1.png/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/hope/id6799248851?uo=2&#34;&gt;Hope&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://music.apple.com/us/artist/hoyeon/1587844154?uo=2&#34;&gt;Na Hong-jin&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2&#34;&gt;Action &amp; Adventure&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $24.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; September 9, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;In the small town of Hope Harbor, a group of police officers and hunters attempt to track down a mysterious creature wreaking havoc. What begins as a search for a wild animal becomes a catastrophe of cosmic proportions as they become prey for these otherworldly beings.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2026 PLUS M ENTERTAINMENT, FORGED FILMS CO LTD, AND NA HONG-JIN. ALL RIGHTS RESERVED.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="1896435417">
+          https://itunes.apple.com/us/movie/in-the-grey/id1896435417?uo=2
+        </id>
+        <title>
+          In the Grey - Guy Ritchie
+        </title>
+        <summary>
+          In The Grey follows a covert team of elite operatives who live in the global shadows, as comfortable wielding power and influence as they are automatic weapons and high explosives. When a ruthless despot steals a billion-dollar fortune, the team is sent to steal it back on what would be for anyone else a suicide mission. What begins as an impossible heist gets much worse, spiraling into an all-out war of strategy, deception and survival.
+        </summary>
+        <im:name>
+          In the Grey
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/in-the-grey/id1896435417?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4401" term="Action &amp; Adventure" scheme="https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2" label="Action &amp; Adventure">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/43/74/5e/43745eb1-f6b9-7f9c-991a-fc34b1fd54c3/mzvf_16552091354876931531.640x352.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              62114.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/guy-ritchie/275318214?uo=2">
+              Guy Ritchie
+            </im:artist>
+            <im:price amount="7.99" currency="USD">
+              $7.99
+            </im:price>
+            <im:rentalprice amount="5.99" currency="USD">
+              $5.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/6f/27/23/6f2723f2-d676-4101-197d-8d417b1aece7/InTheGrey_iTunesStore_Movies_Cvr.png/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/6f/27/23/6f2723f2-d676-4101-197d-8d417b1aece7/InTheGrey_iTunesStore_Movies_Cvr.png/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/6f/27/23/6f2723f2-d676-4101-197d-8d417b1aece7/InTheGrey_iTunesStore_Movies_Cvr.png/115x170bb.png
+            </im:image>
+            <rights>
+              © 2026 Hacienda Productions Limited. All rights reserved.
+            </rights>
+            <im:releasedate label="May 15, 2026">
+              2026-05-15T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/in-the-grey/id1896435417?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Guy Ritchie - In the Grey  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/6f/27/23/6f2723f2-d676-4101-197d-8d417b1aece7/InTheGrey_iTunesStore_Movies_Cvr.png/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/in-the-grey/id1896435417?uo=2&#34;&gt;In the Grey&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/guy-ritchie/275318214?uo=2&#34;&gt;Guy Ritchie&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2&#34;&gt;Action &amp; Adventure&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $7.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $5.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; May 15, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;In The Grey follows a covert team of elite operatives who live in the global shadows, as comfortable wielding power and influence as they are automatic weapons and high explosives. When a ruthless despot steals a billion-dollar fortune, the team is sent to steal it back on what would be for anyone else a suicide mission. What begins as an impossible heist gets much worse, spiraling into an all-out war of strategy, deception and survival.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2026 Hacienda Productions Limited. All rights reserved.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="1896844187">
+          https://itunes.apple.com/us/movie/disclosure-day/id1896844187?uo=2
+        </id>
+        <title>
+          Disclosure Day - Steven Spielberg
+        </title>
+        <summary>
+          If you found out we weren&#39;t alone, if someone showed you, proved it to you, would that frighten you? Now the truth belongs to seven billion people in an original event film created and directed by Steven Spielberg, from a screenplay by David Koepp, starring Emily Blunt, Josh O&#39;Connor, Colin Firth, Eve Hewson, and Colman Domingo.
+        </summary>
+        <im:name>
+          Disclosure Day
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/disclosure-day/id1896844187?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4413" term="Sci-Fi &amp; Fantasy" scheme="https://itunes.apple.com/us/genre/movies-sci-fi-fantasy/id4413?uo=2" label="Sci-Fi &amp; Fantasy">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/c1/d0/9f/c1d09f87-27ae-8963-e669-72aceabaff00/mzvf_16817627972652138830.640x356.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              158175.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/emily-blunt/273751596?uo=2">
+              Steven Spielberg
+            </im:artist>
+            <im:price amount="19.99" currency="USD">
+              $19.99
+            </im:price>
+            <im:rentalprice amount="5.99" currency="USD">
+              $5.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c4/e1/7f/c4e17f16-e085-54d5-bc1d-7c99258bf053/UNI_DISCLOSURE_DAY_TH_ITUNES_EPO_WW_ARTWORK_EN_2000x3000_5F1LFI0000046N.png/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c4/e1/7f/c4e17f16-e085-54d5-bc1d-7c99258bf053/UNI_DISCLOSURE_DAY_TH_ITUNES_EPO_WW_ARTWORK_EN_2000x3000_5F1LFI0000046N.png/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c4/e1/7f/c4e17f16-e085-54d5-bc1d-7c99258bf053/UNI_DISCLOSURE_DAY_TH_ITUNES_EPO_WW_ARTWORK_EN_2000x3000_5F1LFI0000046N.png/115x170bb.png
+            </im:image>
+            <rights>
+              © 2025 Universal Studios. All Rights Reserved.
+            </rights>
+            <im:releasedate label="June 12, 2026">
+              2026-06-12T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/disclosure-day/id1896844187?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Steven Spielberg - Disclosure Day  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c4/e1/7f/c4e17f16-e085-54d5-bc1d-7c99258bf053/UNI_DISCLOSURE_DAY_TH_ITUNES_EPO_WW_ARTWORK_EN_2000x3000_5F1LFI0000046N.png/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/disclosure-day/id1896844187?uo=2&#34;&gt;Disclosure Day&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/emily-blunt/273751596?uo=2&#34;&gt;Steven Spielberg&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-sci-fi-fantasy/id4413?uo=2&#34;&gt;Sci-Fi &amp; Fantasy&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $5.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; June 12, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;If you found out we weren&amp;#39;t alone, if someone showed you, proved it to you, would that frighten you? Now the truth belongs to seven billion people in an original event film created and directed by Steven Spielberg, from a screenplay by David Koepp, starring Emily Blunt, Josh O&amp;#39;Connor, Colin Firth, Eve Hewson, and Colman Domingo.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2025 Universal Studios. All Rights Reserved.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6819504154">
+          https://itunes.apple.com/us/movie/if-i-go-will-they-miss-me/id6819504154?uo=2
+        </id>
+        <title>
+          If I Go Will They Miss Me - Josh Peters
+        </title>
+        <summary>
+          In the Watts neighborhood of Los Angeles, twelve-year-old Lil&#39; Ant sees the world and his father the way all children should, full of myth, wonder, and unwavering belief.
+        </summary>
+        <im:name>
+          If I Go Will They Miss Me
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/if-i-go-will-they-miss-me/id6819504154?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4413" term="Sci-Fi &amp; Fantasy" scheme="https://itunes.apple.com/us/genre/movies-sci-fi-fantasy/id4413?uo=2" label="Sci-Fi &amp; Fantasy">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/f5/53/88/f55388d1-9ffa-09da-557a-2c282ed39513/mzvf_16616221114503328591.640x462.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              134281.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/j-alphonse-nicholson/1793642788?uo=2">
+              Josh Peters
+            </im:artist>
+            <im:price amount="12.99" currency="USD">
+              $12.99
+            </im:price>
+            <im:rentalprice amount="9.99" currency="USD">
+              $9.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ed/66/33/ed66332d-4ad5-569a-97dd-930e35a85088/IfIGoWillTheyMissMe_2000x3000.png/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ed/66/33/ed66332d-4ad5-569a-97dd-930e35a85088/IfIGoWillTheyMissMe_2000x3000.png/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ed/66/33/ed66332d-4ad5-569a-97dd-930e35a85088/IfIGoWillTheyMissMe_2000x3000.png/115x170bb.png
+            </im:image>
+            <rights>
+              © 2026 Rich Spirit LLC
+            </rights>
+            <im:releasedate label="October 30, 2026">
+              2026-10-30T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/if-i-go-will-they-miss-me/id6819504154?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Josh Peters - If I Go Will They Miss Me  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ed/66/33/ed66332d-4ad5-569a-97dd-930e35a85088/IfIGoWillTheyMissMe_2000x3000.png/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/if-i-go-will-they-miss-me/id6819504154?uo=2&#34;&gt;If I Go Will They Miss Me&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/j-alphonse-nicholson/1793642788?uo=2&#34;&gt;Josh Peters&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-sci-fi-fantasy/id4413?uo=2&#34;&gt;Sci-Fi &amp; Fantasy&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $12.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $9.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Expected Release Date:&lt;/b&gt; October 30, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;In the Watts neighborhood of Los Angeles, twelve-year-old Lil&amp;#39; Ant sees the world and his father the way all children should, full of myth, wonder, and unwavering belief.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2026 Rich Spirit LLC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+      <entry>
+        <id im:id="6805950597">
+          https://itunes.apple.com/us/movie/fall-2-deadpoint/id6805950597?uo=2
+        </id>
+        <title>
+          Fall 2: Deadpoint - Peter Spierig &amp; Michael Spierig
+        </title>
+        <summary>
+          On a perilous climb across Thailand&#39;s Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.
+        </summary>
+        <im:name>
+          Fall 2: Deadpoint
+        </im:name>
+        <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/fall-2-deadpoint/id6805950597?uo=2" />
+        <im:contenttype term="Movie" label="Movie">
+          <category im:id="4416" term="Thriller" scheme="https://itunes.apple.com/us/genre/movies-thriller/id4416?uo=2" label="Thriller">
+            <link title="Preview" rel="enclosure" type="video/x-m4v" href="https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/8b/53/c7/8b53c7e1-3b61-05a9-d76f-0ed713fe084e/mzvf_15406189554158104944.640x458.h264lc.U.p.m4v" im:assettype="preview" />
+            <im:duration>
+              97315.0
+            </im:duration>
+            <im:artist href="https://itunes.apple.com/us/artist/peter-spierig/273535906?uo=2">
+              Peter Spierig &amp; Michael Spierig
+            </im:artist>
+            <im:price amount="19.99" currency="USD">
+              $19.99
+            </im:price>
+            <im:rentalprice amount="7.99" currency="USD">
+              $7.99
+            </im:rentalprice>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/29/36/18/293618a3-a553-cf97-49b3-1e062b2ee655/FALL2_Deadpoint_iTunesStore_Movies_Cvr.png/40x60bb.png
+            </im:image>
+            <im:image height="60">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/29/36/18/293618a3-a553-cf97-49b3-1e062b2ee655/FALL2_Deadpoint_iTunesStore_Movies_Cvr.png/40x60bb.png
+            </im:image>
+            <im:image height="170">
+              https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/29/36/18/293618a3-a553-cf97-49b3-1e062b2ee655/FALL2_Deadpoint_iTunesStore_Movies_Cvr.png/115x170bb.png
+            </im:image>
+            <rights>
+              © 2026 FALL 2 PRODUCTIONS INC ALL RIGHTS RESERVED
+            </rights>
+            <im:releasedate label="September 2, 2026">
+              2026-09-02T00:00:00-07:00
+            </im:releasedate>
+            <content type="html">
+              &lt;table border=&#34;0&#34; width=&#34;100%&#34;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&#34;0&#34; width=&#34;100%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+                &lt;tr valign=&#34;top&#34; align=&#34;left&#34;&gt;
+                    
+                        &lt;td align=&#34;center&#34; width=&#34;166&#34; valign=&#34;top&#34;&gt;
+                            &lt;a href=&#34;https://itunes.apple.com/us/movie/fall-2-deadpoint/id6805950597?uo=2&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Peter Spierig &amp; Michael Spierig - Fall 2: Deadpoint  artwork&#34; src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/29/36/18/293618a3-a553-cf97-49b3-1e062b2ee655/FALL2_Deadpoint_iTunesStore_Movies_Cvr.png/68x100bb.png&#34; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&#34;10&#34;&gt;&lt;img alt=&#34;&#34; width=&#34;10&#34; height=&#34;1&#34; src=&#34;https://s.mzstatic.com/images/spacer.gif&#34; /&gt;&lt;/td&gt;
+                    	&lt;td width=&#34;95%&#34;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&#34;https://itunes.apple.com/us/movie/fall-2-deadpoint/id6805950597?uo=2&#34;&gt;Fall 2: Deadpoint&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&#34;https://itunes.apple.com/us/artist/peter-spierig/273535906?uo=2&#34;&gt;Peter Spierig &amp;amp; Michael Spierig&lt;/a&gt;
+
+                       &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&#34;https://itunes.apple.com/us/genre/movies-thriller/id4416?uo=2&#34;&gt;Thriller&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $7.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; September 2, 2026
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt;&lt;br/&gt;On a perilous climb across Thailand&amp;#39;s Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&#34;2&#34; face=&#34;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&#34;&gt; &amp;#169; © 2026 FALL 2 PRODUCTIONS INC ALL RIGHTS RESERVED&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </content>
+          </category>
+        </im:contenttype>
+      </entry>
+    </feed>
+  </body>
+</html>
